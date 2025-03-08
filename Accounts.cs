@@ -18,7 +18,7 @@ namespace ATM_Project {
         }
 
         public Accounts(string new_AFM, string new_PIN, double new_balance) {
-            // Χειροκίνητη εισαγωγή. Δεν θα γίνουν έλεγχοι.
+            // Χειροκίνητη εισαγωγή. Δεν θα γίνουν έλεγχοι λόγω άσκησης.
             AFM = new_AFM;
             PIN = new_PIN;
             Balance = new_balance;
